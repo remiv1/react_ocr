@@ -1,6 +1,6 @@
 # Liens et références
 
-## Lien CDN (Content Delivery Network)
+## Lien CDN (Content Delivery Network) pour intégration partielle de react
 
 Voici les deux liens qui permettent l'intégration de Réact et de Babel et un exemple de script babel
 
@@ -11,4 +11,10 @@ Voici les deux liens qui permettent l'intégration de Réact et de Babel et un e
 <script type="text/babel">
     ReactDOM.render(<div>Bonjour tout le monde !</div>)
 </script>
+```
+
+## Commande de création de projet
+
+```bash
+yarn create vite < project-name > --template react
 ```

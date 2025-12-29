@@ -1,0 +1,27 @@
+:root {
+    --color-primary: #2c5234;
+    --color-secondary: #386641;
+    --color-tertiary: #6a994e;
+    --color-quaternary: #a7c957;
+    --color-quinary: #f2e8cf;
+    --color-bg-banner: #d9ed92;
+}
+
+.lmj-banner {
+    background-color: var(--color-bg-banner);
+    color: var(--color-primary);
+    text-align: center;
+    padding: 32px;
+    border-bottom: double 20px var(--color-primary);
+    border-radius: 20px;
+}
+.lmj-banner h1 {
+    font-family: 'Cursive', cursive, sans-serif;
+    font-size: 48px;
+    margin: 0;
+}
+.lmj-logo {
+    height: 80px;
+    margin-right: 16px;
+    vertical-align: middle;
+}
