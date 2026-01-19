@@ -6,3 +6,5 @@ Ce projet est réalisé dans le cadre d'un apprentissage de React avec le cours 
 ## Objectif
 
 Découvrir et pratiquer les bases de React à travers un projet d'Open ClassRomms (OCR).
+
+> **Terminé :** 19/01/2026
